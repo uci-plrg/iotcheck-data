@@ -21,4 +21,4 @@ In the **Global-Variable Interaction** folder, there are two files, namely **Glo
 The results summary in the file **Global-Variable - Manual Study** is reported in **Table 4** in the paper.
 The results summary in the file **Global-Variable - Automation** is reported in **Table 6** in the paper.
 
-If you have any questions regarding any of these materials, please do not hesitate to contact the main author of the paper.
+If you have any questions regarding any of these materials, please do not hesitate to contact the [main author of the paper](https://rtrimana.github.io/cv/).
