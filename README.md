@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/267885983.svg)](https://zenodo.org/badge/latestdoi/267885983)
 # IoTCheck Supporting Materials
 
 This is the repository that stores the supporting materials for the following paper.
